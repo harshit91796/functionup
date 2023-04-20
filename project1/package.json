@@ -1,0 +1,17 @@
+{
+  "name": "shikks",
+  "version": "1.0.0",
+  "description": "'snn'",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon route.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.22"
+  }
+}
